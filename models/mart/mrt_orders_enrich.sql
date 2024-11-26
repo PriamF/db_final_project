@@ -65,6 +65,7 @@ select
 
 o.order_id,
 o.customer_id,
+o.order_date,
 s.order_sales,
 s.quantity,
 o.store_id,
